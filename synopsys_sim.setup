@@ -1,0 +1,4 @@
+WORK > DEFAULT
+DEFAULT : ./work
+
+
